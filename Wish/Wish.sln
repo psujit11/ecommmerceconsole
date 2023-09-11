@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wish", "Wish\Wish.csproj", "{8A67E636-1FEA-45DE-9435-4521C518C835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A67E636-1FEA-45DE-9435-4521C518C835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A67E636-1FEA-45DE-9435-4521C518C835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A67E636-1FEA-45DE-9435-4521C518C835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A67E636-1FEA-45DE-9435-4521C518C835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82F46962-8331-4BEF-9FA1-98991756783A}
+	EndGlobalSection
+EndGlobal

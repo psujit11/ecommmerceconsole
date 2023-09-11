@@ -1,0 +1,14 @@
+G:\Projects_dotnet\ecomconsole\Cart\Cart\bin\Debug\net6.0\Cart.exe
+G:\Projects_dotnet\ecomconsole\Cart\Cart\bin\Debug\net6.0\Cart.deps.json
+G:\Projects_dotnet\ecomconsole\Cart\Cart\bin\Debug\net6.0\Cart.runtimeconfig.json
+G:\Projects_dotnet\ecomconsole\Cart\Cart\bin\Debug\net6.0\Cart.dll
+G:\Projects_dotnet\ecomconsole\Cart\Cart\bin\Debug\net6.0\Cart.pdb
+G:\Projects_dotnet\ecomconsole\Cart\Cart\obj\Debug\net6.0\Cart.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects_dotnet\ecomconsole\Cart\Cart\obj\Debug\net6.0\Cart.AssemblyInfoInputs.cache
+G:\Projects_dotnet\ecomconsole\Cart\Cart\obj\Debug\net6.0\Cart.AssemblyInfo.cs
+G:\Projects_dotnet\ecomconsole\Cart\Cart\obj\Debug\net6.0\Cart.csproj.CoreCompileInputs.cache
+G:\Projects_dotnet\ecomconsole\Cart\Cart\obj\Debug\net6.0\Cart.dll
+G:\Projects_dotnet\ecomconsole\Cart\Cart\obj\Debug\net6.0\refint\Cart.dll
+G:\Projects_dotnet\ecomconsole\Cart\Cart\obj\Debug\net6.0\Cart.pdb
+G:\Projects_dotnet\ecomconsole\Cart\Cart\obj\Debug\net6.0\Cart.genruntimeconfig.cache
+G:\Projects_dotnet\ecomconsole\Cart\Cart\obj\Debug\net6.0\ref\Cart.dll

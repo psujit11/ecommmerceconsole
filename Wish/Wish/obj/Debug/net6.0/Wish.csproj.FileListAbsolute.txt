@@ -1,0 +1,14 @@
+G:\Projects_dotnet\ecomconsole\Wish\Wish\bin\Debug\net6.0\Wish.exe
+G:\Projects_dotnet\ecomconsole\Wish\Wish\bin\Debug\net6.0\Wish.deps.json
+G:\Projects_dotnet\ecomconsole\Wish\Wish\bin\Debug\net6.0\Wish.runtimeconfig.json
+G:\Projects_dotnet\ecomconsole\Wish\Wish\bin\Debug\net6.0\Wish.dll
+G:\Projects_dotnet\ecomconsole\Wish\Wish\bin\Debug\net6.0\Wish.pdb
+G:\Projects_dotnet\ecomconsole\Wish\Wish\obj\Debug\net6.0\Wish.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects_dotnet\ecomconsole\Wish\Wish\obj\Debug\net6.0\Wish.AssemblyInfoInputs.cache
+G:\Projects_dotnet\ecomconsole\Wish\Wish\obj\Debug\net6.0\Wish.AssemblyInfo.cs
+G:\Projects_dotnet\ecomconsole\Wish\Wish\obj\Debug\net6.0\Wish.csproj.CoreCompileInputs.cache
+G:\Projects_dotnet\ecomconsole\Wish\Wish\obj\Debug\net6.0\Wish.dll
+G:\Projects_dotnet\ecomconsole\Wish\Wish\obj\Debug\net6.0\refint\Wish.dll
+G:\Projects_dotnet\ecomconsole\Wish\Wish\obj\Debug\net6.0\Wish.pdb
+G:\Projects_dotnet\ecomconsole\Wish\Wish\obj\Debug\net6.0\Wish.genruntimeconfig.cache
+G:\Projects_dotnet\ecomconsole\Wish\Wish\obj\Debug\net6.0\ref\Wish.dll

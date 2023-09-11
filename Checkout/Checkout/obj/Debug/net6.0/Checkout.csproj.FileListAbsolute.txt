@@ -1,0 +1,14 @@
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\bin\Debug\net6.0\Checkout.exe
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\bin\Debug\net6.0\Checkout.deps.json
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\bin\Debug\net6.0\Checkout.runtimeconfig.json
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\bin\Debug\net6.0\Checkout.dll
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\bin\Debug\net6.0\Checkout.pdb
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\obj\Debug\net6.0\Checkout.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\obj\Debug\net6.0\Checkout.AssemblyInfoInputs.cache
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\obj\Debug\net6.0\Checkout.AssemblyInfo.cs
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\obj\Debug\net6.0\Checkout.csproj.CoreCompileInputs.cache
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\obj\Debug\net6.0\Checkout.dll
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\obj\Debug\net6.0\refint\Checkout.dll
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\obj\Debug\net6.0\Checkout.pdb
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\obj\Debug\net6.0\Checkout.genruntimeconfig.cache
+G:\Projects_dotnet\ecomconsole\Checkout\Checkout\obj\Debug\net6.0\ref\Checkout.dll

@@ -1,0 +1,14 @@
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\bin\Debug\net6.0\AddDisplaySearchprdouct.exe
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\bin\Debug\net6.0\AddDisplaySearchprdouct.deps.json
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\bin\Debug\net6.0\AddDisplaySearchprdouct.runtimeconfig.json
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\bin\Debug\net6.0\AddDisplaySearchprdouct.dll
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\bin\Debug\net6.0\AddDisplaySearchprdouct.pdb
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\obj\Debug\net6.0\AddDisplaySearchprdouct.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\obj\Debug\net6.0\AddDisplaySearchprdouct.AssemblyInfoInputs.cache
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\obj\Debug\net6.0\AddDisplaySearchprdouct.AssemblyInfo.cs
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\obj\Debug\net6.0\AddDisplaySearchprdouct.csproj.CoreCompileInputs.cache
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\obj\Debug\net6.0\AddDisplaySearchprdouct.dll
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\obj\Debug\net6.0\refint\AddDisplaySearchprdouct.dll
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\obj\Debug\net6.0\AddDisplaySearchprdouct.pdb
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\obj\Debug\net6.0\AddDisplaySearchprdouct.genruntimeconfig.cache
+G:\Projects_dotnet\ecomconsole\AddDisplaySearchprdouct\AddDisplaySearchprdouct\obj\Debug\net6.0\ref\AddDisplaySearchprdouct.dll
